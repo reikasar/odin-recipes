@@ -1,0 +1,22 @@
+body {
+  background-color: beige;
+  font: 16px Arial;
+  text-align: left;
+}
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+  padding: 60px;
+  background-color: rgb(243, 217, 152);
+  border-radius: 2%;
+}
+
+#nav-li {
+  margin: 0;
+  list-style-type: none;
+}
+
+section {
+  width: 90%;
+}
